@@ -9,7 +9,7 @@
 
 ## Instructions
 
-- Install android studio to use its emulator or have a phone nearby
+- Install android studio to use its emulator or have a phone connected to your pc
 
 - You have to install the expo cli if you don't have it:
   - With npm `npm install -g expo-cli`
